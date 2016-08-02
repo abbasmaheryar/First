@@ -1,0 +1,19 @@
+html {
+	color: black;
+	margin: 0;
+	font-size: 10 rem;
+}
+
+.page-title {
+	text-align: center;
+}
+
+.page-description {
+	text-align: center;
+	border: solid #000;
+	border-width: 0 1px;
+}
+
+body {
+	background-color: red;
+}
